@@ -1,7 +1,7 @@
-package com.example.expese_tracker.repositories;
+package com.example.expense_tracker.repositories;
 
 
-import com.example.expese_tracker.entities.User;
+import com.example.expense_tracker.entities.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;
